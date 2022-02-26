@@ -20,7 +20,7 @@ Team Leader: Darshika Ravindra Pongallu
 
 ### Website Link:- http://career-guidance.infinityfreeapp.com/CCPL/intelligent/main.php
 ### EOL Link:- https://www.cloudcounselage.com/iac/?utm_source=TechWarriors&utm_medium=hackathon_2022&utm_campaign=CloudCounselage
-### Youtube Link:-
+### Youtube Link:- https://youtu.be/Nb1Is2TK0ME
 ### Linkdin Post Link:-
 ### Survey Form:- https://forms.gle/y8Tg5N3zevyBoXuKA
   
