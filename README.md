@@ -4,6 +4,7 @@ Cloud Counselage Hackathon
 ## Problem Statement:- 
 To create a web/mobile application which bridge the gap between the students and the industry.
 
+### Team Name: Tech Warriors
 ### Team Members List:
 Team Leader: Darshika Ravindra Pongallu
 <li> Siddhi Sushil Ratnakar 
