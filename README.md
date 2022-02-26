@@ -1,4 +1,4 @@
-# CCPL-HACAKTHON 2022
+# HACKATHON 2022- Tech Warriors - Darshika Pongallu
 Cloud Counselage Hackathon
 
 ## Problem Statement:- 
